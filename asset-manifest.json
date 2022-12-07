@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/portfolio-yassine/static/css/main.07becb6d.css",
+    "main.js": "/portfolio-yassine/static/js/main.a2ff6600.js",
+    "static/media/projet3.png": "/portfolio-yassine/static/media/projet3.a116ded877ac20c10d46.png",
+    "static/media/projet4.png": "/portfolio-yassine/static/media/projet4.14ca4532fb22183cdd58.png",
+    "static/media/projet1.png": "/portfolio-yassine/static/media/projet1.a36a040400a186e31f10.png",
+    "static/media/projet2.png": "/portfolio-yassine/static/media/projet2.51717b31d08857cda5a2.png",
+    "static/media/landing.jpg": "/portfolio-yassine/static/media/landing.63e047c2d470a7b8be97.jpg",
+    "index.html": "/portfolio-yassine/index.html",
+    "main.07becb6d.css.map": "/portfolio-yassine/static/css/main.07becb6d.css.map",
+    "main.a2ff6600.js.map": "/portfolio-yassine/static/js/main.a2ff6600.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07becb6d.css",
+    "static/js/main.a2ff6600.js"
+  ]
+}
